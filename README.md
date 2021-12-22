@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kellankyle - this is just my online handle (i plan on useing my real name - business name when i get closer to coding goals) 
 - 👀 I’m interested in ... Escape from Tarkov, other MMO, RPG, and automation games
-- 🌱 I’m currently learning ... AI ML using Tensor but am a beginner and have ambitions for a project
-- 💞️ I’m looking to be an asset to the community and maybe something more as learn ...
+- 🌱 I’m currently learning ... AI ML using Tensor but am a beginner and have ambitions for a project...
+- 💞️ I’m looking to be an asset to the python / Tensor community and learn from my experinces ...
 - 📫 How to reach me ... email at kellan.kylemore@gmail.com
 
 <!---
